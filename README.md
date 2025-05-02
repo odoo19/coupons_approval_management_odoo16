@@ -1,0 +1,1 @@
+# coupons_approval_management_odoo16
